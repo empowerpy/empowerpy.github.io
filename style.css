@@ -1,0 +1,21 @@
+body{
+margin: 0px;
+}
+
+.bg-mine{
+  background-color: #4285AA;
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.25rem;
+}
+
+#mine{
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.75rem !important;
+}
+
+
+.navbar-collapse.collapse.in { display: block !important; }
+header h1{
+  color: white;
+  padding: 1rem;
+}
